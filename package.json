@@ -29,7 +29,8 @@
 					"Event-B Context File"
 				],
 				"extensions": [
-					".bc"
+					".bc",
+					".bucx"
 				],
 				"configuration": "./language-configuration.json"
 			},
@@ -39,7 +40,8 @@
 					"Event-B Machine file"
 				],
 				"extensions": [
-					".bm"
+					".bm",
+					".bumx"
 				],
 				"configuration": "./language-configuration.json"
 			}
